@@ -2,7 +2,7 @@
 This repo contains a quick bs4 code generator of python .exe file.
 
 ## youtube tutorial
-- 
+- https://www.youtube.com/watch?v=L_Igr2ruYy8
 
 ### donations
 
